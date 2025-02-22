@@ -52,6 +52,6 @@ Wire 1 … Wire 9 — время подачи проволочных матер�
 
 Используемые Библиотеки:
 
-pandas, numpy, seaborn, matplotlib.pyplot, time, plotly.express, os, scipy, lightgbm, catboost, sklearn, sqlalchemy, pylab, warnings.
+pandas, numpy, seaborn, matplotlib, time, plotly, os, scipy, catboost, sklearn, sqlalchemy, warnings.
 
 
